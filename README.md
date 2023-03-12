@@ -18,6 +18,8 @@ De los circuitos se necesita guardar el nombre de este,la fecha en que se disput
 
 En relación a los empleados se requieren almacenar distintos datos dependiendo de la funcion que realicen,de los pilotos solo se necesita su nombre,su edad y la nacionalidad con la que participará.Sobre los mecánicos necesitamos su nombre,su edad ,su nacionalidad y la posición que ocupan dentro de los mecánicos.Para los ingenieros se requiere almacenar su nombre,su edad ,su nacionalidad,la posición que ocupan dentro de los ingenieros y la titulación que tienen.
 
-
+<br>
+<br>
+<br>
 
 ![](https://github.com/zazi479/Diagrama-UML/blob/905948688672c07ab442beda83a22330c9b79136/diagrama%20uml%20F1_.jpg)
